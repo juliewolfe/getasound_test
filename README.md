@@ -14,6 +14,7 @@ Let's see what is on the Web page:
 - container for writing
 - texts
 - images in the buttons
+- on the way the Web page is, it can be adapted to any devices
 
 
 
